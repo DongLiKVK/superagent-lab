@@ -1,2 +1,2 @@
 # superagent-lab
-dsh-superagent sandbox
+dsh-superagent single-account sandbox
